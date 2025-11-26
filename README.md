@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Just A Kid Who Want To Be A Programmer
+Just a Kid Who Wants to Be a Programmer
 
 
 ## 🌐 Socials:
